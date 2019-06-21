@@ -1,0 +1,19 @@
+i04882193000021
+70023921
+http://18.214.16.136:8081/repository/maven-releases/
+http://18.214.16.136:8081/repository/maven-snapshots/
+http://18.214.16.136:9000/
+reec27oct
+bhunesh@yellowdiamond.in
+rkkalra@yellowdiamond.in
+kanchandandona@yahoo.com
+aiarizasmar@gmail.com
+2@Swatantra Kumar
+ridhi3115
+http://172.31.15.190:8081/repository/javahome-group/
+new line added in remote.
+hhh
+hhhh
+qqqqqqq
+aaaaaaa
+
